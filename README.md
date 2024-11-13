@@ -6,39 +6,62 @@ Discover exclusive Black Friday 2024 deals for web developers! This list is a cu
 
 ---
 
-## 🛠️ Developer Tools & IDEs
-
-| Product/Service           | Description                                                | Link                                 |
-|---------------------------|------------------------------------------------------------|--------------------------------------|
-| [JetBrains](https://www.jetbrains.com/) | Industry-leading IDEs for various languages and frameworks | [View Deal](#)                       |
-| [Vercel](https://vercel.com/)        | High-performance hosting for static and dynamic sites       | [View Deal](#)                       |
-
----
-
 ## 📚 JavaScript Libraries
 
 | Product/Service           | Description                                              | Link                                 |
 |---------------------------|----------------------------------------------------------|--------------------------------------|
-| [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | Display PDFs seamlessly in Vue applications                  | [View Deal](https://www.vue-pdf-viewer.dev) |
-| [React Table](https://react-table.tanstack.com/) | Flexible and customizable table for React applications      | [View Deal](#)                       |
+| [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | Vue.js component for displaying PDFs with customization options. Ideal for projects requiring seamless PDF integration. | [View Deal](https://www.vue-pdf-viewer.dev) |
 
 ---
 
-## 🎨 UI Kits & Components
+## 🛠️ Developer Tools
 
-| Product/Service           | Description                                              | Link                                 |
-|---------------------------|----------------------------------------------------------|--------------------------------------|
-| [Tailwind UI](https://tailwindui.com/)    | Beautifully crafted UI components for Tailwind CSS          | [View Deal](#)                       |
-| [Material-UI](https://material-ui.com/)   | Comprehensive React components following Material Design    | [View Deal](#)                       |
+| Product/Service           | Description                                                | Link                                 |
+|---------------------------|------------------------------------------------------------|--------------------------------------|
+| [Nitropack](https://nitropack.io/)  | Powerful web optimization tool, often with significant Black Friday discounts to speed up page loads and improve site performance. | [View Deal](https://www.marketing.nitropack.io/black-Friday) |
+| [Polypane](https://polypane.app/)    | Browser for web development and design testing. Optimize responsive design with advanced preview options. | [View Deal](#) |
+| [Tableplus](https://tableplus.com/)  | Modern, native database management tool. Ideal for managing MySQL, PostgreSQL, and more in a user-friendly UI. | [View Deal](#) |
+| [Cursor](https://www.cursor.com/)     | AI-powered code editor designed for collaboration and efficient coding. A must-have for developer teams. | [View Deal](#) |
 
 ---
 
-## 🌐 Hosting & Cloud Services
+## 🎓 Developer Courses
 
-| Product/Service           | Description                                              | Link                                 |
-|---------------------------|----------------------------------------------------------|--------------------------------------|
-| [Netlify](https://www.netlify.com/)        | Hosting and serverless backend for modern web projects      | [View Deal](#)                       |
-| [DigitalOcean](https://www.digitalocean.com/) | Scalable cloud hosting and infrastructure                  | [View Deal](#)                       |
+| Product/Service           | Description                                                | Link                                 |
+|---------------------------|------------------------------------------------------------|--------------------------------------|
+| [useEffect.dev](https://useeffect.dev/) | React-focused course platform. Get $20 off during Black Friday with code `FRIDAY23`. | [View Deal](#) |
+| [Epic React](https://www.epicreact.dev/) | Comprehensive course series for mastering React. Created by React expert Kent C. Dodds. | [View Deal](#) |
+| [Vue School](https://vueschool.io) | Known for comprehensive Vue.js courses, offering up to 60% off on Black Friday. Includes courses on Vue.js, Nuxt, TypeScript, and more. | [View Deal](https://vueschool.io/sales/blackfriday) |
+| [Vue Mastery](https://www.vuemastery.com/) | Extensive library of Vue courses for developers of all levels. Regular Black Friday discounts make it a great time to subscribe. | [View Deal](https://www.vuemastery.com/black-friday/) |
+
+---
+
+## 🌐 Web Optimization & Security
+
+| Product/Service           | Description                                                | Link                                 |
+|---------------------------|------------------------------------------------------------|--------------------------------------|
+| [WPSecurityNinja](https://wpsecurityninja.com) | WordPress security solution offering advanced protection and monitoring. Regular Black Friday discounts apply. | [View Deal](https://wpsecurityninja.com/black-friday/) |
+| [useBouncer](https://www.usebouncer.com/) | Email verification tool with a Black Friday offer of 50% more credits, ensuring better list hygiene and email deliverability. | [View Deal](#) |
+| [Beagle Security](https://beaglesecurity.com/) | AI-driven penetration testing for identifying vulnerabilities and enhancing security. Great for proactive site protection. | [View Deal](#) |
+
+---
+
+## 📈 SEO & Analytics
+
+| Product/Service           | Description                                                | Link                                 |
+|---------------------------|------------------------------------------------------------|--------------------------------------|
+| [SE Ranking](https://seranking.com/) | All-in-one SEO platform offering rank tracking, website audit, and competitor analysis. | [View Deal](#) |
+| [Plerdy](https://www.plerdy.com/)     | SEO and CRO tool offering insights into user behavior, helping improve site performance and conversions. | [View Deal](#) |
+| [Sentry](https://sentry.io/)          | Real-time error monitoring and performance tracking for application stability and user experience. | [View Deal](#) |
+
+---
+
+## ☁️ Cloud & SaaS Services
+
+| Product/Service           | Description                                                | Link                                 |
+|---------------------------|------------------------------------------------------------|--------------------------------------|
+| [Digital Ocean](https://www.digitalocean.com/) | Cloud infrastructure provider ideal for developers seeking scalable, cost-effective solutions for hosting and databases. | [View Deal](#) |
+| [Brevo](https://www.brevo.com/)          | Comprehensive email marketing and automation platform, supporting dynamic email flows and transactional emails. | [View Deal](#) |
 
 ---
 
