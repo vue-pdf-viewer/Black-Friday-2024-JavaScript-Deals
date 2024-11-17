@@ -29,8 +29,8 @@
 
 |     | Name 🔗                               | Description 📝                                 | Discount 💸         | Period 🗓️                   |
 |-----|---------------------------------------|-----------------------------------------------|---------------------|-----------------------------|
-| 1   | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | Vue.js component for displaying PDFs with customization options. Ideal for projects requiring seamless PDF integration. | 55% OFF | 25-Nov - 02-Dec |
-| 2   | [MDBootstrap](https://mdbootstrap.com/sale/black/standard/) | Combines Bootstrap 5 with Material Design 2.0 for React, Vue, Angular, and more. Perfect for creating stunning UIs. | 98% OFF             | Black Friday 2024          |
+| 1   | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | Vue.js component for displaying PDFs with customization options. Ideal for projects requiring seamless PDF integration. | 55% OFF any license | 25-Nov - 02-Dec |
+| 2   | [MDBootstrap](https://mdbootstrap.com/sale/black/standard/) | Combines Bootstrap 5 with Material Design 2.0 for React, Vue, Angular, and more. Perfect for creating stunning UIs. | 98% off Advanced and 6 months of free React/Vue/Angular             | Black Friday 2024          |
 | 3   | [Next Admin](https://nextadmin.co/)   | A collection of 200+ pro dashboard elements and 45+ unique pages for Next.js. Ideal for building efficient admin panels. | 40% OFF (code: BLFCM2024) | 29-Nov - 02-Dec |
 | 4   | [NextReady](https://nextready.dev/)   | A comprehensive set of type-safe components for Next.js, integrating seamlessly with TypeScript, Prisma, LemonSqueezy, and shadcn/ui. Accelerate your development process with these ready-to-use components. | 63% OFF (code: BF2024) | Now - 02-Dec            |
 | 5   | [Animate React Native](https://www.animatereactnative.com/) | A collection of 132+ prebuilt animations for React Native to save time and enhance UX. Includes animations for buttons, modals, and more. | 60% OFF (code: BF2024) | 11-Nov - 05-Dec     |
@@ -48,7 +48,7 @@
 
 |     | Name 🔗                               | Description 📝                                 | Discount 💸         | Period 🗓️                   |
 |-----|---------------------------------------|-----------------------------------------------|---------------------|-----------------------------|
-| 1   | [Beagle Security](https://beaglesecurity.com/) | A SaaS-based automated penetration testing solution that helps you identify vulnerabilities in your web applications, public APIs, and GraphQL endpoints before hackers exploit them. | 30% off annual plans, 15% off monthly plans (Advanced and Essential) | 25-Nov - 06-Dec |
+| 1   | [Beagle Security](https://beaglesecurity.com/) | A SaaS-based automated penetration testing tool that helps identify vulnerabilities in your web applications, public APIs, and GraphQL endpoints before they can be exploited by hackers. | 30% OFF annual plans and 15% OFF monthly plans for Advanced and Essential tiers (valid for 6 months). Promo Codes: **Advanced Yearly** - `BFADY30`, **Advanced Monthly** - `BFAVM15`, **Essential Yearly** - `BFESY30`, **Essential Monthly** - `BFESM15` | 25-Nov - 06-Dec |
 | 2   | [Cloudways](https://platform.cloudways.com/signup?coupon=BFCM2024) | A managed cloud hosting platform designed for digital agencies, eCommerce stores, and online businesses. Offers seamless scalability and integrations. | 40% off for the first 4 months + 40 free migrations | Black Friday 2024          |
 
 
