@@ -7,11 +7,12 @@
 
 ## 📜 Table of Contents
 
-1. [🔧 UI Kits & Libraries](#ui-kits--libraries--boilerplates)
-2. [🛠️ Development Tools](#development-tools)
-3. [📚 E-Books](#e-books)
-4. [🎓 Courses](#courses)
-5. [🌐 Web Optimization & Monitoring](#web-optimization--monitoring)
+1. [🔧 UI Kits & Libraries](#-ui-kits--libraries--boilerplates)
+2. [🛠️ Development Tools](#-development-tools)
+3. [🔒 Hosting & Security](#-hosting--security)
+4. [🌐 Web Optimization & Monitoring](#-web-optimization--monitoring)
+5. [📚 E-Books](#-e-books)
+6. [🎓 Courses](#-courses)
 
 
 ## 🔧 UI Kits / Libraries / Boilerplates
@@ -33,7 +34,7 @@
 | 2   | [Shipped](https://shipped.club/)      | A Next.js SaaS Kit with TypeScript, React, Tailwind, and shadcn for launching your startup in days. Ideal for creating MVPs quickly. | 20% OFF (code: BF2024) | Black Friday 2024          |
 
 
-## 🛠️ Hosting & Security
+## 🔒 Hosting & Security
 
 | #   | Name 🔗                               | Description 📝                                 | Discount 💸         | Period 🗓️                   |
 |-----|---------------------------------------|-----------------------------------------------|---------------------|-----------------------------|
