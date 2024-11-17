@@ -2,8 +2,18 @@
 
 ✨ Explore the top Black Friday & Cyber Monday 2024 deals for JavaScript developers! 💻 This list features discounts on essential tools, libraries, and services for developers working with JavaScript, including React ⚛️ and Vue 🖖. Don’t miss these limited-time offers! ⏳🚀
 
+## How to Contribute
 > **💡 Contributors Welcome!** Found a great Black Friday deal? Submit a pull request to add it to our list!
 
+1. Fork this repository.
+2. Add your deal under the appropriate section in the table format shown above.
+3. Submit a pull request with your addition.
+
+**Contribution Guidelines:**
+
+- Only add deals relevant to Black Friday 2024 / Cyber Monday 2024 and specifically beneficial to web developers.
+- Ensure links are accurate and descriptions are clear and concise.
+- All contributions will be reviewed and merged promptly.
 
 ## 📜 Table of Contents
 
@@ -76,19 +86,6 @@
 | 6   | [Mastering Pinia](https://masteringpinia.com/#pricing) | A comprehensive guide to mastering Pinia, the state management library for Vue.js. | 50% OFF             | Now - 02/12/2024            |
 | 7   | [VSCode Power User](https://vscode.pro/) | Learn advanced workflows and power user settings for VSCode. Covers HTML/CSS, Git, supercharged Markdown, JavaScript, Python, and 50+ Extensions. | 80% OFF             | Now - 01/12/2024            |
 | 8   | [useEffect.dev](https://useeffect.dev/) | A complete course to help you master React hooks and build more fluent, efficient React applications. | $20 OFF (code: FRIDAY23) | Black Friday 2024          |
-
-
-## How to Contribute
-
-1. Fork this repository.
-2. Add your deal under the appropriate section in the table format shown above.
-3. Submit a pull request with your addition.
-
-**Contribution Guidelines:**
-
-- Only add deals relevant to Black Friday 2024 / Cyber Monday 2024 and specifically beneficial to web developers.
-- Ensure links are accurate and descriptions are clear and concise.
-- All contributions will be reviewed and merged promptly.
 
 ---
 
