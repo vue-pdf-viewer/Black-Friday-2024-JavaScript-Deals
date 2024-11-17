@@ -8,7 +8,7 @@
 ## 📜 Table of Contents
 
 1. [🔧 UI Kits & Libraries](#-ui-kits--libraries--boilerplates)
-2. [🛠️ Development Tools](#-development-tools)
+2. [🛠️ Development Tools](#%EF%B8%8F-development-tools)
 3. [🔒 Hosting & Security](#-hosting--security)
 4. [🌐 Web Optimization & Monitoring](#-web-optimization--monitoring)
 5. [📚 E-Books](#-e-books)
