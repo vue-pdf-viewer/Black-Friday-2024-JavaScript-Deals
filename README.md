@@ -46,7 +46,7 @@
 | 2   | [Shipped](https://shipped.club/)      | A Next.js SaaS Kit with TypeScript, React, Tailwind, and shadcn for launching your startup in days. Ideal for creating MVPs quickly. | 20% OFF (code: BF2024) | Black Friday 2024          |
 | 3   | [Mailtrap](https://mailtrap.io/)      | An email testing tool for safe and efficient email debugging during development. Test and preview your emails before sending them to users. | 25% OFF for 12 months (Code: BFCM24)  | Now - 31-Dec     |
 | 4   | [Daito](https://www.daito.io/)        | A multi-factor authentication (MFA) solution designed for developers. Easily integrate secure authentication into your applications with powerful APIs. | 50% OFF annual subscription plans over $150 (Code: CYBERMONDAY2024) | 25-Nov - 01-Dec |
-| 5   | [HelpCrunch]([https://helpcrunch.com/](https://helpcrunch.com/lp/black-friday-v2024.html) | A customer communication platform offering live chat, email, and help desk functionality for businesses. Streamline support and boost engagement. | 25% OFF your first payment (Code: BFCM2024) | 21-Nov - 02-Dec |
+| 5   | [HelpCrunch](https://helpcrunch.com/lp/black-friday-v2024.html) | A customer communication platform offering live chat, email, and help desk functionality for businesses. Streamline support and boost engagement. | 25% OFF your first payment (Code: BFCM2024) | 21-Nov - 02-Dec |
 
 
 ## 🔒 Hosting & Security
