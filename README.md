@@ -1,6 +1,6 @@
 # 🎉 Black Friday 2024 / Cyber Monday 2024 Deals for JavaScript Developers 🚀
 
-✨ Explore the top Black Friday & Cyber Monday 2024 deals for JavaScript developers! 💻 This list features discounts on essential tools, libraries, and services for developers working with JavaScript, including React ⚛️, Vue 🖖 and Node.js. Don’t miss these limited-time offers! ⏳🚀
+✨ Explore the top Black Friday & Cyber Monday 2024 deals for JavaScript developers! 💻 This list features discounts on essential tools, libraries, and services for developers working with JavaScript, including React ⚛️, Vue 🖖, and Node.js 🟢. Don’t miss these limited-time offers! ⏳🚀
 
 ## How to Contribute
 > **💡 Contributors Welcome!** Found a great Black Friday deal? Submit a pull request to add it to our list!
