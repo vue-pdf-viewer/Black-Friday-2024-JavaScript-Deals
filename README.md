@@ -44,6 +44,8 @@
 |-----|---------------------------------------|-----------------------------------------------|---------------------|-----------------------------|
 | 1   | [DivJoy](https://divjoy.com/)         | A powerful React codebase generator for building SaaS products and landing pages quickly. Includes authentication, payments, and more. | 40% OFF             | Now - 30-Nov            |
 | 2   | [Shipped](https://shipped.club/)      | A Next.js SaaS Kit with TypeScript, React, Tailwind, and shadcn for launching your startup in days. Ideal for creating MVPs quickly. | 20% OFF (code: BF2024) | Black Friday 2024          |
+| 3   | [Mailtrap](https://mailtrap.io/)      | An email testing tool for safe and efficient email debugging during development. Test and preview your emails before sending them to users. | 25% OFF for 12 months (Code: BFCM24)  | Now - 31-Dec     |
+| 4   | [Daito](https://www.daito.io/)        | A multi-factor authentication (MFA) solution designed for developers. Easily integrate secure authentication into your applications with powerful APIs. | 50% OFF annual subscription plans over $150 (Code: CYBERMONDAY2024) | 25-Nov - 01-Dec |
 
 
 ## 🔒 Hosting & Security
@@ -63,6 +65,7 @@
 | 3   | [Plerdy](https://www.plerdy.com/black-friday/) | A robust tool for tracking visitor behavior, analyzing data, and optimizing conversion rates. Features include heatmaps, session recordings, and SEO analysis. | 50% OFF (code: plerdyBF2024) | Now - 01-Dec            |
 | 4   | [SE Ranking](https://seranking.com/black-friday.html) | A comprehensive SEO platform offering website ranking analysis, keyword tracking, backlink monitoring, and more. Empower your SEO strategy with accurate data and insights. | 20% OFF + Extra 20% OFF on Black Friday | Now - 02-Dec            |
 | 5   | [useBouncer](https://www.usebouncer.com/) | An email verification service to improve deliverability and reduce bounce rates by validating email addresses. | 50% more credits           | Black Friday 2024          |
+| 6   | [StatusGator](https://statusgator.com/) | A unified status monitoring tool that aggregates the status of all your cloud services in one place. Ideal for keeping track of service downtime. | 20% OFF Starter plans (Code: BLACKFRIDAY2024) | 11-Nov - 12-Dec |
 
 ## 📚 E-Books
 
