@@ -30,11 +30,12 @@
 
 |     | Name 🔗                               | Description 📝                                 | Discount 💸         | Period 🗓️                   |
 |-----|---------------------------------------|-----------------------------------------------|---------------------|-----------------------------|
-| 1   | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | Vue.js component for displaying PDFs with customization options. Ideal for projects requiring seamless PDF integration. | 55% OFF any license | 25-Nov - 02-Dec |
-| 2   | [MDBootstrap](https://mdbootstrap.com/sale/black/standard/) | Combines Bootstrap 5 with Material Design 2.0 for React, Vue, Angular, and more. Perfect for creating stunning UIs. | 98% off Advanced and 6 months of free React/Vue/Angular             | Black Friday 2024          |
-| 3   | [Next Admin](https://nextadmin.co/)   | A collection of 200+ pro dashboard elements and 45+ unique pages for Next.js. Ideal for building efficient admin panels. | 40% OFF (code: BLFCM2024) | 29-Nov - 02-Dec |
-| 4   | [NextReady](https://nextready.dev/)   | A comprehensive set of type-safe components for Next.js, integrating seamlessly with TypeScript, Prisma, LemonSqueezy, and shadcn/ui. Accelerate your development process with these ready-to-use components. | 63% OFF (code: BF2024) | Now - 02-Dec            |
-| 5   | [Animate React Native](https://www.animatereactnative.com/) | A collection of 132+ prebuilt animations for React Native to save time and enhance UX. Includes animations for buttons, modals, and more. | 60% OFF (code: BF2024) | 11-Nov - 05-Dec     |
+| 1   | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev/?utm_source=github&utm_campaign=bfcm) | Vue.js component for displaying PDFs with customization options. Ideal for projects requiring seamless PDF integration. | 55% OFF any license | 25-Nov - 02-Dec |
+| 2   | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_campaign=bfcm) | A React.js component for rendering PDF documents with flexible customization options. Suitable for integrating PDF viewing capabilities into web applications. | Register now to get 55% OFF any license at launch | 25-Nov - 02-Dec |
+| 3   | [MDBootstrap](https://mdbootstrap.com/sale/black/standard/) | Combines Bootstrap 5 with Material Design 2.0 for React, Vue, Angular, and more. Perfect for creating stunning UIs. | 98% off Advanced and 6 months of free React/Vue/Angular             | Black Friday 2024          |
+| 4   | [Next Admin](https://nextadmin.co/)   | A collection of 200+ pro dashboard elements and 45+ unique pages for Next.js. Ideal for building efficient admin panels. | 40% OFF (code: BLFCM2024) | 29-Nov - 02-Dec |
+| 5   | [NextReady](https://nextready.dev/)   | A comprehensive set of type-safe components for Next.js, integrating seamlessly with TypeScript, Prisma, LemonSqueezy, and shadcn/ui. Accelerate your development process with these ready-to-use components. | 63% OFF (code: BF2024) | Now - 02-Dec            |
+| 6   | [Animate React Native](https://www.animatereactnative.com/) | A collection of 132+ prebuilt animations for React Native to save time and enhance UX. Includes animations for buttons, modals, and more. | 60% OFF (code: BF2024) | 11-Nov - 05-Dec     |
 
 
 ## 🛠️ Development Tools
