@@ -47,6 +47,7 @@
 | 3   | [Mailtrap](https://mailtrap.io/)      | An email testing tool for safe and efficient email debugging during development. Test and preview your emails before sending them to users. | 25% OFF for 12 months (Code: BFCM24)  | Now - 31-Dec     |
 | 4   | [Daito](https://www.daito.io/)        | A multi-factor authentication (MFA) solution designed for developers. Easily integrate secure authentication into your applications with powerful APIs. | 50% OFF annual subscription plans over $150 (Code: CYBERMONDAY2024) | 25-Nov - 01-Dec |
 | 5   | [HelpCrunch](https://helpcrunch.com/lp/black-friday-v2024.html) | A customer communication platform offering live chat, email, and help desk functionality for businesses. Streamline support and boost engagement. | 25% OFF your first payment (Code: BFCM2024) | 21-Nov - 02-Dec |
+| 6   | [Kaleidoscope](https://kaleidoscope.app/) | A file comparison tool for spotting differences in text, images, and folders. Ideal for code reviews and collaboration. | First Year 40% OFF (Code: BLACKFRIDAY2024) | Black Friday 2024          |
 
 
 ## 🔒 Hosting & Security
@@ -55,6 +56,10 @@
 |-----|---------------------------------------|-----------------------------------------------|---------------------|-----------------------------|
 | 1   | [Beagle Security](https://beaglesecurity.com/) | A SaaS-based automated penetration testing tool that helps identify vulnerabilities in your web applications, public APIs, and GraphQL endpoints before they can be exploited by hackers. | 30% OFF annual plans and 15% OFF monthly plans for Advanced and Essential tiers (valid for 6 months). Promo Codes: **Advanced Yearly** - `BFADY30`, **Advanced Monthly** - `BFAVM15`, **Essential Yearly** - `BFESY30`, **Essential Monthly** - `BFESM15` | 25-Nov - 06-Dec |
 | 2   | [Cloudways](https://platform.cloudways.com/signup?coupon=BFCM2024) | A managed cloud hosting platform designed for digital agencies, eCommerce stores, and online businesses. Offers seamless scalability and integrations. | 40% off for the first 4 months + 40 free migrations | Black Friday 2024          |
+| 3   | [DeployHQ](https://www.deployhq.com/) | A deployment platform for automating code deployments with support for GitHub, GitLab, Bitbucket, and more. Perfect for minimizing deployment errors and saving time. | 50% OFF all plans (Code: BLACKFRIDAY50) | Black Friday 2024          |
+| 4   | [PocketHost](https://pockethost.io/pricing) | Lifetime access to host up to 250 instances of PocketBase, providing a cost-effective and scalable hosting solution for developers. | Black Friday discount for lifetime access | November 15 – December 2 |
+| 5   | [HostPapa](https://www.hostpapa.sg/buy/shared-hosting/?gad_source=1&gclid=Cj0KCQiAi_G5BhDXARIsAN5SX7rcJ7_Vdd1EFynG77qAtxzXA9inr0o0S_jCmfB-XTgSZ1GE3dh0QFkaAiOpEALw_wcB) | High-performance web hosting services ideal for small businesses and personal projects. Features include free domains and unlimited bandwidth. | Up to 88% OFF             | Black Friday 2024          |
+| 6   | [Static.app](https://static.app/)     | A platform for hosting static websites with fast load times and scalability. Perfect for portfolios, blogs, and documentation sites. | 30% OFF (Code: BLACK24) | Black Friday 2024          |
 
 
 ## 🌐 Web Optimization & Monitoring
@@ -78,6 +83,7 @@
 | 3   | [React - The Road To Enterprise (JavaScript Edition)](https://theroadtoenterprise.com/books/react-the-road-to-enterprise/javascript?discount_coupon=BLACKFRIDAY) | Covers advanced patterns, testing strategies, and architecture for large-scale React projects. | 50% OFF (code: BLACKFRIDAY) | Now - 02-Dec            |
 | 4   | [React - The Road To Enterprise (TypeScript Edition)](https://theroadtoenterprise.com/books/react-the-road-to-enterprise/typescript?discount_coupon=BLACKFRIDAY) | Advanced React book focusing on TypeScript patterns for robust and scalable applications. | 40% OFF (code: BLACKFRIDAY) | Now - 01-Dec            |
 | 5   | [Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react?a=912288051) | A practical guide with proven rules for building better React applications in 2024. Covers application structure, component design, testing, and performance. | 50% OFF (code: BLACKFRIDAY) | Black Friday 2024          |
+| 6   | [BeyondCode](https://twostraws.gumroad.com/l/beyondcode/blackfriday24?a=912288051) | A comprehensive guide to enhancing productivity and becoming a more effective programmer. Packed with actionable lessons and best practices. | 50% OFF (Code: BLACKFRIDAY24) | Black Friday 2024          |
 
 ## 🎓 Courses
 
@@ -87,7 +93,7 @@
 | 2   | [Vue Mastery](https://www.vuemastery.com/black-friday/) | High-quality Vue.js courses by experts, including Evan You. Ideal for beginners and advanced developers alike. | Exclusive Discounts | Black Friday 2024          |
 | 3   | [Vue.js Certification](https://certificates.dev/vuejs#top) | The official Vue.js certification to validate your expertise in Vue.js. | 56% OFF             | Now - 02-Dec            |
 | 4   | [Nuxt Certification](https://certificates.dev/nuxt#top) | Official certification for the Nuxt framework, covering advanced usage and best practices. | 56% OFF             | Now - 02-Dec            |
-| 5   | [Node CLI Automation](#)             | Learn to create CLI tools with Node.js, used by millions of developers. Build effective and efficient automation tools. | 80% OFF             | Now - 02-Dec            |
+| 5   | [Node CLI Automation](https://nodecli.com/)             | Learn to create CLI tools with Node.js, used by millions of developers. Build effective and efficient automation tools. | 80% OFF             | Now - 02-Dec            |
 | 6   | [Mastering Pinia](https://masteringpinia.com/#pricing) | A comprehensive guide to mastering Pinia, the state management library for Vue.js. | 50% OFF             | Now - 02-Dec            |
 | 7   | [VSCode Power User](https://vscode.pro/) | Learn advanced workflows and power user settings for VSCode. Covers HTML/CSS, Git, supercharged Markdown, JavaScript, Python, and 50+ Extensions. | 80% OFF             | Now - 01-Dec            |
 | 8   | [useEffect.dev](https://useeffect.dev/) | A complete course to help you master React hooks and build more fluent, efficient React applications. | $20 OFF (code: FRIDAY23) | Black Friday 2024          |
