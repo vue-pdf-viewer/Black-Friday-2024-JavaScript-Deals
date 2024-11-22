@@ -48,6 +48,7 @@
 | 4   | [Daito](https://www.daito.io/)        | A multi-factor authentication (MFA) solution designed for developers. Easily integrate secure authentication into your applications with powerful APIs. | 50% OFF annual subscription plans over $150 (Code: CYBERMONDAY2024) | 25-Nov - 01-Dec |
 | 5   | [HelpCrunch](https://helpcrunch.com/lp/black-friday-v2024.html) | A customer communication platform offering live chat, email, and help desk functionality for businesses. Streamline support and boost engagement. | 25% OFF your first payment (Code: BFCM2024) | 21-Nov - 02-Dec |
 | 6   | [Kaleidoscope](https://kaleidoscope.app/) | A file comparison tool for spotting differences in text, images, and folders. Ideal for code reviews and collaboration. | First Year 40% OFF (Code: BLACKFRIDAY2024) | Black Friday 2024          |
+| 7   | [Polypane](https://polypane.app/black-friday/) | A browser for web developers that offers powerful features like responsive design previews, accessibility checks, and real-time collaboration tools. | 25% OFF License | Now – 27-Nov |
 
 
 ## 🔒 Hosting & Security
@@ -60,8 +61,8 @@
 | 4   | [PocketHost](https://pockethost.io/pricing) | Lifetime access to host up to 250 instances of PocketBase, providing a cost-effective and scalable hosting solution for developers. | Black Friday discount for lifetime access | November 15 – December 2 |
 | 5   | [HostPapa](https://www.hostpapa.sg/buy/shared-hosting/?gad_source=1&gclid=Cj0KCQiAi_G5BhDXARIsAN5SX7rcJ7_Vdd1EFynG77qAtxzXA9inr0o0S_jCmfB-XTgSZ1GE3dh0QFkaAiOpEALw_wcB) | High-performance web hosting services ideal for small businesses and personal projects. Features include free domains and unlimited bandwidth. | Up to 88% OFF             | Black Friday 2024          |
 | 6   | [Static.app](https://static.app/)     | A platform for hosting static websites with fast load times and scalability. Perfect for portfolios, blogs, and documentation sites. | 30% OFF (Code: BLACK24) | Black Friday 2024          |
-| 7   | [ExploitPack](https://exploitpack.com/indexexploitpack.html)     | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Free upgrade to LIFETIME **Only 10 licenses available** | Nov 20 to Nov 30 |
-| 8   | [ControlPack](https://exploitpack.com/indexcontrolpack.html)     | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Free upgrade to LIFETIME **Only 10 licenses available**  | Nov 20 to Nov 30 |
+| 7   | [ExploitPack](https://exploitpack.com/indexexploitpack.html)     | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Free upgrade to LIFETIME **Only 10 licenses available** | Nov-20 - Nov-30 |
+| 8   | [ControlPack](https://exploitpack.com/indexcontrolpack.html)     | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Free upgrade to LIFETIME **Only 10 licenses available**  | Nov-20 - Nov-30 |
 
 
 ## 🌐 Web Optimization & Monitoring
