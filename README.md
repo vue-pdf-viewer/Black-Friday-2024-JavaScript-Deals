@@ -36,6 +36,7 @@
 | 4   | [Next Admin](https://nextadmin.co/)   | A collection of 200+ pro dashboard elements and 45+ unique pages for Next.js. Ideal for building efficient admin panels. | 40% OFF (code: BLFCM2024) | 29-Nov - 02-Dec |
 | 5   | [NextReady](https://nextready.dev/)   | A comprehensive set of type-safe components for Next.js, integrating seamlessly with TypeScript, Prisma, LemonSqueezy, and shadcn/ui. Accelerate your development process with these ready-to-use components. | 63% OFF (code: BF2024) | Now - 02-Dec            |
 | 6   | [Animate React Native](https://www.animatereactnative.com/) | A collection of 132+ prebuilt animations for React Native to save time and enhance UX. Includes animations for buttons, modals, and more. | 60% OFF (code: BF2024) | 11-Nov - 05-Dec     |
+| 7   | [Tailkit](https://tailkit.com/) | A comprehensive UI kit for Tailwind CSS that provides pre-designed components and templates to streamline web development. | To be announced | Starting 25-Nov |
 
 
 ## 🛠️ Development Tools
