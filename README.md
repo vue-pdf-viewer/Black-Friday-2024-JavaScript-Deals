@@ -50,6 +50,7 @@
 | 5   | [HelpCrunch](https://helpcrunch.com/lp/black-friday-v2024.html) | A customer communication platform offering live chat, email, and help desk functionality for businesses. Streamline support and boost engagement. | 25% OFF your first payment (Code: BFCM2024) | 21-Nov - 02-Dec |
 | 6   | [Kaleidoscope](https://kaleidoscope.app/) | A file comparison tool for spotting differences in text, images, and folders. Ideal for code reviews and collaboration. | First Year 40% OFF (Code: BLACKFRIDAY2024) | Black Friday 2024          |
 | 7   | [Polypane](https://polypane.app/black-friday/) | A browser for web developers that offers powerful features like responsive design previews, accessibility checks, and real-time collaboration tools. | 25% OFF License | Now – 27-Nov |
+| 8   | [Hammerai](https://www.hammerai.com/)  |Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18**|Now- 30 dec|
 
 
 ## 🔒 Hosting & Security
