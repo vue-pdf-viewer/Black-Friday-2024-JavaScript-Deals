@@ -64,7 +64,6 @@
 | 6   | [Static.app](https://static.app/)     | A platform for hosting static websites with fast load times and scalability. Perfect for portfolios, blogs, and documentation sites. | 30% OFF (Code: BLACK24) | Black Friday 2024          |
 | 7   | [ExploitPack](https://exploitpack.com/indexexploitpack.html)     | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Free upgrade to LIFETIME **Only 10 licenses available** | Nov-20 - Nov-30 |
 | 8   | [ControlPack](https://exploitpack.com/indexcontrolpack.html)     | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Free upgrade to LIFETIME **Only 10 licenses available**  | Nov-20 - Nov-30 |
-| 9   |
 
 ## 🌐 Web Optimization & Monitoring
 
