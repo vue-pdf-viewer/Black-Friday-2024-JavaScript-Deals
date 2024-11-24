@@ -78,6 +78,7 @@
 | 5   | [useBouncer](https://www.usebouncer.com/) | An email verification service to improve deliverability and reduce bounce rates by validating email addresses. | 50% more credits           | Black Friday 2024          |
 | 6   | [StatusGator](https://statusgator.com/) | A unified status monitoring tool that aggregates the status of all your cloud services in one place. Ideal for keeping track of service downtime. | 20% OFF Starter plans (Code: BLACKFRIDAY2024) | 11-Nov - 12-Dec |
 | 7   | [SuperMonitoring](https://www.supermonitoring.com/) | A comprehensive website monitoring tool to track uptime, performance, and errors. Great for ensuring website reliability. | 50% OFF, one-time, only for new customers (Code: SUPERBLACK24) | 29-Nov - 05-Dec |
+| 8   | [Pulsetic](https://pulsetic.com/) | Get website downtime alerts by phone call, SMS, email or Slack. Create beautiful status pages & incident management reports for your visitors. | 30% OFF (Code: BLACK24) | Black Friday 2024 |
 
 ## 📚 E-Books
 
