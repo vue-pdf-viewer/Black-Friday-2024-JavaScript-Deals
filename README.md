@@ -51,7 +51,8 @@
 | 6   | [Kaleidoscope](https://kaleidoscope.app/) | A file comparison tool for spotting differences in text, images, and folders. Ideal for code reviews and collaboration. | First Year 40% OFF (Code: BLACKFRIDAY2024) | Black Friday 2024          |
 | 7   | [Polypane](https://polypane.app/black-friday/) | A browser for web developers that offers powerful features like responsive design previews, accessibility checks, and real-time collaboration tools. | 25% OFF License | Now – 27-Nov |
 | 8   | [TablePlus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% OFF (Code: BLACK_FRIDAY_2024) | Black Friday 2024 |
-|9    | [DevUtils](https://devutils.com/)  | All-in-one Toolbox for Developers | 50% OFF (Code: BLACKFRIDAY_2024) | Now - 3-Dec |
+| 9   | [Brevo](https://www.brevo.com/offers/black-friday/) | All-in-one platform to manage your customer relationships via Email, SMS, Chat and more | 50% off yearly plans (Code: BREVOFRIDAY24) | Now - 2-Dec |
+| 10  | [DevUtils](https://devutils.com/)  | All-in-one Toolbox for Developers | 50% OFF (Code: BLACKFRIDAY_2024) | Now - 3-Dec |
 
 ## 🔒 Hosting & Security
 
